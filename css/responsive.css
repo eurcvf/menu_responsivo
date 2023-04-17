@@ -34,11 +34,12 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -112,11 +113,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -190,11 +191,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -268,11 +269,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -346,11 +347,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -424,11 +425,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {
@@ -502,11 +503,11 @@
     width: 100vw;
     height: 100vh;
 
-    background: linear-gradient(150deg, #07c972, #359d9e);
+    background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 
     display: flex;
-    justify-content: center;
-    align-items: center;
+    align-items: start;
+    padding-top: 80px;
   }
 
   .header_menu_section.active nav {

@@ -24,7 +24,7 @@ body {
 /* Header */
 
 header {
-  background: linear-gradient(90deg, #07c972, #359d9e);
+  background: linear-gradient(130deg, #4800bb, rgb(80, 10, 121));
 }
 
 header .header_container {
