@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+/* Header */
+
+header {
+  background: linear-gradient(90deg, #07c972, #359d9e);
+}
+
+header .header_container {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 90%;
+  max-width: 1216px;
+  margin: 0 auto;
+}
+
+header .header_container .header_logo {
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul li {
+  list-style: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #f8f9f7;
+  font-size: 2rem;
+  margin-left: 36px;
+  padding: 6px 10px;
+}
+
+nav ul li a:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  transition: all 0.3s;
+}
+
+/* Main */
+
+.main_container {
+  width: 90%;
+  max-width: 1216px;
+  margin: 0 auto;
+}
